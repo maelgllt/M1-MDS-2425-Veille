@@ -37,5 +37,14 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td>Plateforme où de nombreux développeurs partagent des solutions aux problèmes communs rencontrés avec Node.js.</td>
       <td><a href="https://stackoverflow.com/questions/tagged/node.js">https://stackoverflow.com/questions/tagged/node.js</a></td>
     </tr>
+    <tr>
+      <td colspan="3"><br></td> 
+    </tr>
+    <tr>
+      <td>Compte X - Node.js</td>
+      <td>Compte X officiel de Node.js</td>
+      <td><a href="https://x.com/nodejs">https://x.com/nodejs</a></td>
+    </tr>
+    
   </tbody>
 </table>
