@@ -55,7 +55,7 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
     <tr>
       <td>Feedly</td>
       <td>Permet de suivre plusieurs sources d'actualités et d'articles sur Node.js</td>
-      <td><a href="https://feedly.com">https://feedly.com</a></td>
+      <td><a href="https://feedly.com/i/discover/sources/search/topic/nodejs">https://feedly.com/i/discover/sources/search/topic/nodejs</a></td>
     </tr>
     <tr>
       <td>Dev.to</td>
