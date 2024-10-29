@@ -73,6 +73,11 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td><a href="https://nodesource.com/blog">https://nodesource.com/blog</a></td>
     </tr>
     <tr>
+      <td>Reddit - Node.js</td>
+      <td>Forum pour discuter et échanger des informations sur Node.js</td>
+      <td><a href="https://www.reddit.com/r/node/">https://www.reddit.com/r/node/</a></td>
+    </tr>
+    <tr>
       <td colspan="3"><br></td> 
     </tr>
     <tr>
@@ -123,6 +128,13 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td>Compte linkedin de plusieurs développeurs spécialisés sur Node.js. Les développeurs Node.js partagent des projets, des fonctionnalités provenant des dernières mises à jour de Node, dans leur post</td>
       <td><a href="https://www.linkedin.com/search/results/people/?keywords=nodejs">https://www.linkedin.com/search/results/people/?keywords=nodejs</a></td>
     </tr>
-    
+    <tr>
+      <td colspan="3"><br></td> 
+    </tr>
+    <tr>
+      <td>Serveur Discord - Nodeiflux</td>
+      <td>Serveur discord dans lequel les membres discutent autour de Node.js, les dernières nouveautés, des projets...</td>
+      <td><a href="https://discord.com/invite/vUsrbjd">https://discord.com/invite/vUsrbjd</a></td>
+    </tr>
   </tbody>
 </table>
