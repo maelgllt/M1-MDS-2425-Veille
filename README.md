@@ -136,5 +136,13 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td>Serveur discord dans lequel les membres discutent autour de Node.js, les dernières nouveautés, des projets...</td>
       <td><a href="https://discord.com/invite/vUsrbjd">https://discord.com/invite/vUsrbjd</a></td>
     </tr>
+    <tr>
+      <td colspan="3"><br></td> 
+    </tr>
+    <tr>
+      <td>Conférence - Node.js</td>
+      <td>Permet d'avoir les dates des prochaines conférences organisées autour de node.js (sur le site officiel)</td>
+      <td><a href="https://nodejs.org/fr/about/get-involved/events">https://nodejs.org/fr/about/get-involved/events</a></td>
+    </tr>
   </tbody>
 </table>
