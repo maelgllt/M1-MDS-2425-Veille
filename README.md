@@ -30,26 +30,31 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td><a href="https://nodejs.org">https://nodejs.org</a></td>
     </tr>
     <tr>
+      <td>2</td>
       <td>Documentation NPM (Node Package Manager)</td>
       <td>Permet de faire un suivi des nouvelles versions de packages.</td>
       <td><a href="https://docs.npmjs.com">https://docs.npmjs.com</a></td>
     </tr>
     <tr>
+      <td>3</td>
       <td>npm public feedback discussions</td>
       <td>Espace de discussion sur Github permettant à la communauté de faire des suggestions et de discuter avec d'autres utilisateurs.</td>
       <td><a href="https://github.com/npm/feedback">https://github.com/npm/feedback</a></td>
     </tr>
     <tr>
+      <td>4</td>
       <td>Dépôt Github</td>
       <td>Permet d'explorer les projets open-source utilisant Node.js, regarder les tendances et les mises à jour dans les dépôts populaires</td>
       <td><a href="https://github.com/topics/node">https://github.com/topics/node</a></td>
     </tr>
     <tr>
+      <td>5</td>
       <td>Stack Overflow</td>
       <td>Plateforme où de nombreux développeurs partagent des solutions aux problèmes communs rencontrés avec Node.js.</td>
       <td><a href="https://stackoverflow.com/questions/tagged/node.js">https://stackoverflow.com/questions/tagged/node.js</a></td>
     </tr>
     <tr>
+      <td>5</td>
       <td>Node Weekly</td>
       <td>Newsletter hebdomadaire dédiée à l'écosystème Node.js. Donne une compilation d'actualités, des articles, des tutoriels...</td>
       <td><a href="https://nodeweekly.com">https://nodeweekly.com</a></td>
@@ -60,16 +65,19 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td><a href="https://feedly.com/i/discover/sources/search/topic/nodejs">https://feedly.com/i/discover/sources/search/topic/nodejs</a></td>
     </tr>
     <tr>
+      <td>6</td>
       <td>Dev.to</td>
       <td>Plateforme communautaire où les développeurs partagent des articles, des tutoriels et des discussions sur Node.js</td>
       <td><a href="https://dev.to/t/node">https://dev.to/t/node</a></td>
     </tr>
     <tr>
+      <td>7</td>
       <td>Medium - Node.js</td>
       <td>Articles sur Node.js publiés par des développeurs et des experts sur Medium</td>
       <td><a href="https://medium.com/tag/node-js">https://medium.com/tag/node-js</a></td>
     </tr>
     <tr>
+      <td>8</td>
       <td>NodeSource</td>
       <td>Blog avec des articles techniques, des ressources et des mises à jour sur Node.js</td>
       <td><a href="https://nodesource.com/blog">https://nodesource.com/blog</a></td>
