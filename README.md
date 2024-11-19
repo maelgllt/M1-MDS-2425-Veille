@@ -24,7 +24,7 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td style="text-align: center;">1</td>
       <td>Site officiel de Node.js</td>
       <td>Il permet de fournir des informations précises et à jour sur la plateforme et ses mises à jour.</td>
       <td><a href="https://nodejs.org">https://nodejs.org</a></td>
