@@ -54,36 +54,37 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td><a href="https://stackoverflow.com/questions/tagged/node.js">https://stackoverflow.com/questions/tagged/node.js</a></td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>Node Weekly</td>
       <td>Newsletter hebdomadaire dédiée à l'écosystème Node.js. Donne une compilation d'actualités, des articles, des tutoriels...</td>
       <td><a href="https://nodeweekly.com">https://nodeweekly.com</a></td>
     </tr>
     <tr>
+      <td>7</td>
       <td>Feedly</td>
       <td>Permet de suivre plusieurs sources d'actualités et d'articles sur Node.js</td>
       <td><a href="https://feedly.com/i/discover/sources/search/topic/nodejs">https://feedly.com/i/discover/sources/search/topic/nodejs</a></td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>Dev.to</td>
       <td>Plateforme communautaire où les développeurs partagent des articles, des tutoriels et des discussions sur Node.js</td>
       <td><a href="https://dev.to/t/node">https://dev.to/t/node</a></td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>Medium - Node.js</td>
       <td>Articles sur Node.js publiés par des développeurs et des experts sur Medium</td>
       <td><a href="https://medium.com/tag/node-js">https://medium.com/tag/node-js</a></td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>NodeSource</td>
       <td>Blog avec des articles techniques, des ressources et des mises à jour sur Node.js</td>
       <td><a href="https://nodesource.com/blog">https://nodesource.com/blog</a></td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>Reddit - Node.js</td>
       <td>Forum pour discuter et échanger des informations sur Node.js</td>
       <td><a href="https://www.reddit.com/r/node/">https://www.reddit.com/r/node/</a></td>
@@ -92,36 +93,43 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td colspan="3"><br></td> 
     </tr>
     <tr>
+      <td>12</td>
       <td>Compte X - Node.js</td>
       <td>Compte X officiel de Node.js. Il permet d'avoir les mises à jour en temps réel, l'annonce des événements et conférences ainsi que des liens vers des ressources utiles.</td>
       <td><a href="https://x.com/nodejs">https://x.com/nodejs</a></td>
     </tr>
     <tr>
+      <td>13</td>
       <td>Compte X - npm</td>
       <td>Compte X officiel de npm. Il fournit des infos en temps réel sur les nouvelles version de npm, des fonctionnalités ajoutés, des correctifs... Il partage aussi des articles, des tutos sur l'utilisation de npm.</td>
       <td><a href="https://x.com/npmjs">https://x.com/npmjs</a></td>
     </tr>
     <tr>
+      <td>14</td>
       <td>Compte X - Ryan Dahl</td>
       <td>Compte X de Ryan Dahl, le créateur de Node.js. Partage des réflexions sur Node.js.</td>
       <td><a href="https://x.com/rough__sea">https://x.com/rough__sea</a></td>
     </tr>
     <tr>
+      <td>15</td>
       <td>Compte X - Liran Tal</td>
       <td>Compte X de Liran Tal, un développeur et conférencier connu dans la communauté de Node.js. Partage des conseils et des ressources.</td>
       <td><a href="https://x.com/liran_tal">https://x.com/liran_tal</a></td>
     </tr>
     <tr>
+      <td>16</td>
       <td>Compte X - NodeSource</td>
       <td>Compte X de NodeSource, une entreprise qui propose des outils et des services pour Node.js. Partage des articles et des mises à jour sur l'écosystème.</td>
       <td><a href="https://x.com/NodeSource">https://x.com/NodeSource</a></td>
     </tr>
     <tr>
+      <td>17</td>
       <td>Compte X - NodejsPr</td>
       <td>Compte X de NodejsPr. Dédié à la promotion et à la communication autour de Node.js</td>
       <td><a href="https://x.com/NodejsPr">https://x.com/NodejsPr</a></td>
     </tr>
     <tr>
+      <td>18</td>
       <td>Hashtag X - #nodejs</td>
       <td>Hashtag sur X pour être au courant des dernières infos sur la technologie</td>
       <td><a href="https://x.com/search?q=%23nodejs&src=typed_query">https://x.com/search?q=%23nodejs&src=typed_query</a></td>
@@ -130,11 +138,13 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td colspan="3"><br></td> 
     </tr>
     <tr>
+      <td>19</td>
       <td>Compte LinkedIn - Node.js</td>
       <td>Compte linkedin de Node.js. Permet de se tenir au courant des dernières mises à jour et des différentes conférences organisées</td>
       <td><a href="https://www.linkedin.com/company/node-js/">https://www.linkedin.com/company/node-js/</a></td>
     </tr>
     <tr>
+      <td>20</td>
       <td>Compte LinkedIn - Développeurs Node.js</td>
       <td>Compte linkedin de plusieurs développeurs spécialisés sur Node.js. Les développeurs Node.js partagent des projets, des fonctionnalités provenant des dernières mises à jour de Node, dans leur post</td>
       <td><a href="https://www.linkedin.com/search/results/people/?keywords=nodejs">https://www.linkedin.com/search/results/people/?keywords=nodejs</a></td>
@@ -143,6 +153,7 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td colspan="3"><br></td> 
     </tr>
     <tr>
+      <td>21</td>
       <td>Serveur Discord - Nodeiflux</td>
       <td>Serveur discord dans lequel les membres discutent autour de Node.js, les dernières nouveautés, des projets...</td>
       <td><a href="https://discord.com/invite/vUsrbjd">https://discord.com/invite/vUsrbjd</a></td>
@@ -151,6 +162,7 @@ Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'e
       <td colspan="3"><br></td> 
     </tr>
     <tr>
+      <td>22</td>
       <td>Conférence - Node.js</td>
       <td>Permet d'avoir les dates des prochaines conférences organisées autour de node.js (sur le site officiel)</td>
       <td><a href="https://nodejs.org/fr/about/get-involved/events">https://nodejs.org/fr/about/get-involved/events</a></td>
