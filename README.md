@@ -32,31 +32,36 @@ Node.js est une plateforme d'exécution JavaScript côté serveur. Il permet d'e
 
 10. **[Node Weekly](https://nodeweekly.com)** - Newsletter hebdomadaire dédiée à l'écosystème Node.js. Donne une compilation d'actualités, des articles, des tutoriels...
 11. **[Feedly - Node.js](https://feedly.com/i/discover/sources/search/topic/nodejs)** - Permet de suivre plusieurs sources d'actualités et d'articles sur Node.js.
+12. **[Daily.dev](https://app.daily.dev/sources/nodejs)** - Extension web. Agrégateur de contenu tech permettant de suivre les dernières tendances sur Node.js et d'autres technologies
 
 ### 🐦 Réseaux sociaux
 
 #### Twitter (X)
 
-12. **[Compte X - Node.js](https://x.com/nodejs)** - Compte X officiel de Node.js. Il permet d'avoir les mises à jour en temps réel, l'annonce des événements et conférences ainsi que des liens vers des ressources utiles.
-13. **[Compte X - npm](https://x.com/npmjs)** - Compte X officiel de npm. Il fournit des infos en temps réel sur les nouvelles version de npm, des fonctionnalités ajoutés, des correctifs... Il partage aussi des articles, des tutos sur l'utilisation de npm.
-14. **[Compte X - Ryan Dahl](https://x.com/rough__sea)** - Compte X de Ryan Dahl, le créateur de Node.js. Partage des réflexions sur Node.js.
-15. **[Compte X - Liran Tal](https://x.com/liran_tal)** - Compte X de Liran Tal, un développeur et conférencier connu dans la communauté de Node.js. Partage des conseils et des ressources.
-16. **[Compte X - NodeSource](https://x.com/NodeSource)** - Compte X de NodeSource, une entreprise qui propose des outils et des services pour Node.js. Partage des articles et des mises à jour sur l'écosystème.
-17. **[Compte X - NodejsPr](https://x.com/NodejsPr)** - Compte X de NodejsPr. Dédié à la promotion et à la communication autour de Node.js
-18. **[Hashtag X - #nodejs](https://x.com/search?q=%23nodejs&src=typed_query)** - Fil d'actualité sur Node.js.
+13. **[Compte X - Node.js](https://x.com/nodejs)** - Compte X officiel de Node.js. Il permet d'avoir les mises à jour en temps réel, l'annonce des événements et conférences ainsi que des liens vers des ressources utiles.
+14. **[Compte X - npm](https://x.com/npmjs)** - Compte X officiel de npm. Il fournit des infos en temps réel sur les nouvelles version de npm, des fonctionnalités ajoutés, des correctifs... Il partage aussi des articles, des tutos sur l'utilisation de npm.
+15. **[Compte X - Ryan Dahl](https://x.com/rough__sea)** - Créateur de Node.js. Partage des réflexions sur Node.js.
+16. **[Compte X - Liran Tal](https://x.com/liran_tal)** - Développeur et conférencier connu dans la communauté de Node.js. Partage des conseils et des ressources.
+17. **[Compte X - NodeSource](https://x.com/NodeSource)** - Entreprise qui propose des outils et des services pour Node.js. Partage des articles et des mises à jour sur l'écosystème.
+18. **[Compte X - NodejsPr](https://x.com/NodejsPr)** - Dédié à la promotion et à la communication autour de Node.js
+19. **[Hashtag X - #nodejs](https://x.com/search?q=%23nodejs&src=typed_query)** - Fil d'actualité sur Node.js.
 
 #### LinkedIn
 
-19. **[Compte LinkedIn - Node.js](https://www.linkedin.com/company/node-js/)** - Compte linkedin de Node.js. Permet de se tenir au courant des dernières mises à jour et des différentes conférences organisées.
-20. **[Développeurs Node.js sur LinkedIn](https://www.linkedin.com/search/results/people/?keywords=nodejs)** - Compte linkedin de plusieurs développeurs spécialisés sur Node.js. Les développeurs Node.js partagent des projets, des fonctionnalités provenant des dernières mises à jour de Node, dans leur post.
+20. **[Compte LinkedIn - Node.js](https://www.linkedin.com/company/node-js/)** - Permet de se tenir au courant des dernières mises à jour et des différentes conférences organisées.
+21. **[Développeurs Node.js sur LinkedIn](https://www.linkedin.com/search/results/people/?keywords=nodejs)** - Plusieurs développeurs spécialisés sur Node.js. Les développeurs Node.js partagent des projets, des fonctionnalités provenant des dernières mises à jour de Node, dans leur post.
 
 ### 🎙️ Communautés en ligne
 
-21. **[Serveur Discord - Nodeiflux](https://discord.com/invite/vUsrbjd)** - Discussions et partages autour de Node.js.
+22. **[Serveur Discord - Nodeiflux](https://discord.com/invite/vUsrbjd)** - Discussions et partages autour de Node.js.
 
 ### 🎤 Conférences et événements
 
-22. **[Calendrier des conférences Node.js](https://nodejs.org/fr/about/get-involved/events)** - Prochaines conférences et événements autour de Node.js.
+23. **[Calendrier des conférences Node.js](https://nodejs.org/fr/about/get-involved/events)** - Prochaines conférences et événements autour de Node.js.
+
+### 🔔 Google alertes
+
+24. **[Google alertes](https://www.google.fr/alerts)** - Permet d'obtenir les dernières informations de Node.js directement par e-mail.
 
 ## 📌 Conclusion
 
