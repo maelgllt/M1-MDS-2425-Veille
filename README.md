@@ -1,171 +1,64 @@
-# M1-MDS-2425-Veille
+# Veille Technologique - Node.js
 
-## Node.js
+## Introduction
 
-Node.js est une plateforme d'exécution Javascript côté serveur. Il permet d'exécuter du code Javascript en dehors d'un navigateur, par exemple pour des application web backend, des serveurs ou des outils de développement.
+Node.js est une plateforme d'exécution JavaScript côté serveur. Il permet d'exécuter du code JavaScript en dehors d'un navigateur, ce qui le rend idéal pour des applications web backend, des serveurs ou des outils de développement.
 
-# Justification
+## Justification du choix de Node.js
 
-- Technologie dont j'ai souvent entendu parler, notamment dans des discussions liées au développement web backend, mais je n'ai jamais eu l'occasion de l'explorer.
-- Très répandu dans de nombreux environnements professionnels. Netflix, LinkedIn, Paypal l'utilisent pour sa capacité à gérer des grandes applications.
-- Régulièrement mis à jour avec des versions LTS (supportées pendant minimum 30 mois) et des versions courtes.
-- Communauté très active contribuant à l'amélioration et à l'ajout de nouvelles fonctionnalités.
+- **Technologie répandue** dans le développement web backend.
+- **Utilisée par de grandes entreprises** comme Netflix, LinkedIn et PayPal pour ses performances et sa scalabilité.
+- **Mises à jour régulières** avec des versions LTS (supportées pendant au moins 30 mois).
+- **Communauté très active** qui contribue à son amélioration et à l'ajout de nouvelles fonctionnalités.
 
-# Tableau des sources
+## Sources de veille
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Nom</th>
-      <th>Justification</th>
-      <th>Lien</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Site officiel de Node.js</td>
-      <td>Il permet de fournir des informations précises et à jour sur la plateforme et ses mises à jour.</td>
-      <td><a href="https://nodejs.org">https://nodejs.org</a></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Documentation NPM (Node Package Manager)</td>
-      <td>Permet de faire un suivi des nouvelles versions de packages.</td>
-      <td><a href="https://docs.npmjs.com">https://docs.npmjs.com</a></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>npm public feedback discussions</td>
-      <td>Espace de discussion sur Github permettant à la communauté de faire des suggestions et de discuter avec d'autres utilisateurs.</td>
-      <td><a href="https://github.com/npm/feedback">https://github.com/npm/feedback</a></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Dépôt Github</td>
-      <td>Permet d'explorer les projets open-source utilisant Node.js, regarder les tendances et les mises à jour dans les dépôts populaires</td>
-      <td><a href="https://github.com/topics/node">https://github.com/topics/node</a></td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Stack Overflow</td>
-      <td>Plateforme où de nombreux développeurs partagent des solutions aux problèmes communs rencontrés avec Node.js.</td>
-      <td><a href="https://stackoverflow.com/questions/tagged/node.js">https://stackoverflow.com/questions/tagged/node.js</a></td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Node Weekly</td>
-      <td>Newsletter hebdomadaire dédiée à l'écosystème Node.js. Donne une compilation d'actualités, des articles, des tutoriels...</td>
-      <td><a href="https://nodeweekly.com">https://nodeweekly.com</a></td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Feedly</td>
-      <td>Permet de suivre plusieurs sources d'actualités et d'articles sur Node.js</td>
-      <td><a href="https://feedly.com/i/discover/sources/search/topic/nodejs">https://feedly.com/i/discover/sources/search/topic/nodejs</a></td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Dev.to</td>
-      <td>Plateforme communautaire où les développeurs partagent des articles, des tutoriels et des discussions sur Node.js</td>
-      <td><a href="https://dev.to/t/node">https://dev.to/t/node</a></td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>Medium - Node.js</td>
-      <td>Articles sur Node.js publiés par des développeurs et des experts sur Medium</td>
-      <td><a href="https://medium.com/tag/node-js">https://medium.com/tag/node-js</a></td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>NodeSource</td>
-      <td>Blog avec des articles techniques, des ressources et des mises à jour sur Node.js</td>
-      <td><a href="https://nodesource.com/blog">https://nodesource.com/blog</a></td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>Reddit - Node.js</td>
-      <td>Forum pour discuter et échanger des informations sur Node.js</td>
-      <td><a href="https://www.reddit.com/r/node/">https://www.reddit.com/r/node/</a></td>
-    </tr>
-    <tr>
-      <td colspan="3"><br></td> 
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Compte X - Node.js</td>
-      <td>Compte X officiel de Node.js. Il permet d'avoir les mises à jour en temps réel, l'annonce des événements et conférences ainsi que des liens vers des ressources utiles.</td>
-      <td><a href="https://x.com/nodejs">https://x.com/nodejs</a></td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>Compte X - npm</td>
-      <td>Compte X officiel de npm. Il fournit des infos en temps réel sur les nouvelles version de npm, des fonctionnalités ajoutés, des correctifs... Il partage aussi des articles, des tutos sur l'utilisation de npm.</td>
-      <td><a href="https://x.com/npmjs">https://x.com/npmjs</a></td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>Compte X - Ryan Dahl</td>
-      <td>Compte X de Ryan Dahl, le créateur de Node.js. Partage des réflexions sur Node.js.</td>
-      <td><a href="https://x.com/rough__sea">https://x.com/rough__sea</a></td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>Compte X - Liran Tal</td>
-      <td>Compte X de Liran Tal, un développeur et conférencier connu dans la communauté de Node.js. Partage des conseils et des ressources.</td>
-      <td><a href="https://x.com/liran_tal">https://x.com/liran_tal</a></td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>Compte X - NodeSource</td>
-      <td>Compte X de NodeSource, une entreprise qui propose des outils et des services pour Node.js. Partage des articles et des mises à jour sur l'écosystème.</td>
-      <td><a href="https://x.com/NodeSource">https://x.com/NodeSource</a></td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>Compte X - NodejsPr</td>
-      <td>Compte X de NodejsPr. Dédié à la promotion et à la communication autour de Node.js</td>
-      <td><a href="https://x.com/NodejsPr">https://x.com/NodejsPr</a></td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>Hashtag X - #nodejs</td>
-      <td>Hashtag sur X pour être au courant des dernières infos sur la technologie</td>
-      <td><a href="https://x.com/search?q=%23nodejs&src=typed_query">https://x.com/search?q=%23nodejs&src=typed_query</a></td>
-    </tr>
-    <tr>
-      <td colspan="3"><br></td> 
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>Compte LinkedIn - Node.js</td>
-      <td>Compte linkedin de Node.js. Permet de se tenir au courant des dernières mises à jour et des différentes conférences organisées</td>
-      <td><a href="https://www.linkedin.com/company/node-js/">https://www.linkedin.com/company/node-js/</a></td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>Compte LinkedIn - Développeurs Node.js</td>
-      <td>Compte linkedin de plusieurs développeurs spécialisés sur Node.js. Les développeurs Node.js partagent des projets, des fonctionnalités provenant des dernières mises à jour de Node, dans leur post</td>
-      <td><a href="https://www.linkedin.com/search/results/people/?keywords=nodejs">https://www.linkedin.com/search/results/people/?keywords=nodejs</a></td>
-    </tr>
-    <tr>
-      <td colspan="3"><br></td> 
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>Serveur Discord - Nodeiflux</td>
-      <td>Serveur discord dans lequel les membres discutent autour de Node.js, les dernières nouveautés, des projets...</td>
-      <td><a href="https://discord.com/invite/vUsrbjd">https://discord.com/invite/vUsrbjd</a></td>
-    </tr>
-    <tr>
-      <td colspan="3"><br></td> 
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>Conférence - Node.js</td>
-      <td>Permet d'avoir les dates des prochaines conférences organisées autour de node.js (sur le site officiel)</td>
-      <td><a href="https://nodejs.org/fr/about/get-involved/events">https://nodejs.org/fr/about/get-involved/events</a></td>
-    </tr>
-  </tbody>
-</table>
+### 📘 Sites officiels et documentations
+
+1. **[Site officiel de Node.js](https://nodejs.org)** - Informations précises et à jour sur la plateforme et ses mises à jour.
+2. **[Documentation NPM](https://docs.npmjs.com)** - Suivi des nouvelles versions de packages.
+3. **[Dépôt GitHub Node.js](https://github.com/topics/node)** - Espace de discussion sur Github permettant à la communauté de faire des suggestions et de discuter avec d'autres utilisateurs.
+4. **[npm public feedback discussions](https://github.com/npm/feedback)** - Permet d'explorer les projets open-source utilisant Node.js, regarder les tendances et les mises à jour dans les dépôts populaires.
+
+### 💬 Forums et plateformes communautaires
+
+5. **[Stack Overflow](https://stackoverflow.com/questions/tagged/node.js)** - Solutions aux problèmes courants.
+6. **[Reddit - Node.js](https://www.reddit.com/r/node/)** - Discussions et partages d'expériences.
+7. **[Dev.to](https://dev.to/t/node)** - Articles et tutoriels par des développeurs.
+8. **[Medium - Node.js](https://medium.com/tag/node-js)** - Articles d'experts sur Node.js.
+9. **[NodeSource Blog](https://nodesource.com/blog)** - Articles techniques et mises à jour sur l'écosystème.
+
+### 📰 Newsletters et agrégateurs de contenus
+
+10. **[Node Weekly](https://nodeweekly.com)** - Newsletter hebdomadaire dédiée à l'écosystème Node.js. Donne une compilation d'actualités, des articles, des tutoriels...
+11. **[Feedly - Node.js](https://feedly.com/i/discover/sources/search/topic/nodejs)** - Permet de suivre plusieurs sources d'actualités et d'articles sur Node.js.
+
+### 🐦 Réseaux sociaux
+
+#### Twitter (X)
+
+12. **[Compte X - Node.js](https://x.com/nodejs)** - Compte X officiel de Node.js. Il permet d'avoir les mises à jour en temps réel, l'annonce des événements et conférences ainsi que des liens vers des ressources utiles.
+13. **[Compte X - npm](https://x.com/npmjs)** - Compte X officiel de npm. Il fournit des infos en temps réel sur les nouvelles version de npm, des fonctionnalités ajoutés, des correctifs... Il partage aussi des articles, des tutos sur l'utilisation de npm.
+14. **[Compte X - Ryan Dahl](https://x.com/rough__sea)** - Compte X de Ryan Dahl, le créateur de Node.js. Partage des réflexions sur Node.js.
+15. **[Compte X - Liran Tal](https://x.com/liran_tal)** - Compte X de Liran Tal, un développeur et conférencier connu dans la communauté de Node.js. Partage des conseils et des ressources.
+16. **[Compte X - NodeSource](https://x.com/NodeSource)** - Compte X de NodeSource, une entreprise qui propose des outils et des services pour Node.js. Partage des articles et des mises à jour sur l'écosystème.
+17. **[Compte X - NodejsPr](https://x.com/NodejsPr)** - Compte X de NodejsPr. Dédié à la promotion et à la communication autour de Node.js
+18. **[Hashtag X - #nodejs](https://x.com/search?q=%23nodejs&src=typed_query)** - Fil d'actualité sur Node.js.
+
+#### LinkedIn
+
+19. **[Compte LinkedIn - Node.js](https://www.linkedin.com/company/node-js/)** - Compte linkedin de Node.js. Permet de se tenir au courant des dernières mises à jour et des différentes conférences organisées.
+20. **[Développeurs Node.js sur LinkedIn](https://www.linkedin.com/search/results/people/?keywords=nodejs)** - Compte linkedin de plusieurs développeurs spécialisés sur Node.js. Les développeurs Node.js partagent des projets, des fonctionnalités provenant des dernières mises à jour de Node, dans leur post.
+
+### 🎙️ Communautés en ligne
+
+21. **[Serveur Discord - Nodeiflux](https://discord.com/invite/vUsrbjd)** - Discussions et partages autour de Node.js.
+
+### 🎤 Conférences et événements
+
+22. **[Calendrier des conférences Node.js](https://nodejs.org/fr/about/get-involved/events)** - Prochaines conférences et événements autour de Node.js.
+
+## 📌 Conclusion
+
+Cette veille technologique me permettra d'approfondir mes connaissances sur Node.js et de me tenir informé des dernières tendances et évolutions. En suivant ces sources, je pourrai rester à jour sur les nouvelles versions, les meilleures pratiques et les opportunités d'apprentissage dans cette technologie en constante évolution.
+
